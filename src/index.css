@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#currentLoc {
+  text-align: center;
+  padding-top:2.5em
+}
+.card-title {
+  text-align:center;
+}
+.card-subtitle {
+  text-align: center;
+}
+#group {
+  width: 60%;
+  margin: 5em auto 0 auto;
+}
+#Rain{
+  background-image: url('./Images/Rain.jpg');
+  height:600px;
+}
